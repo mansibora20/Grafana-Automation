@@ -30,7 +30,7 @@ Before running the Ansible playbook, ensure you have the following:
 1. Clone this repository:
 
  ```bash
- git clone https://github.com/veerendra-pulapa/ansible-monitoring.git
+ git clone https://mansi_bora/Grafana-Automation.git
  cd ansible-monitoring
 1. Update the inventory file (inventory.yml) with the IP addresses and SSH credentials of your target servers.
 2. Run the Ansible playbook:
